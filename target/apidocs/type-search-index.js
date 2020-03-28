@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"fr.uvsq.florianldm","l":"App"},{"p":"fr.uvsq.florianldm","l":"PrinterAvance"},{"p":"fr.uvsq.florianldm","l":"PrinterBasique"},{"p":"fr.uvsq.florianldm","l":"SimplePrinter"}]
